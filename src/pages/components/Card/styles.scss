@@ -1,0 +1,17 @@
+.card {
+   width: 100%;
+   height: 70px;
+
+   border-radius: 5px;
+   padding: 1.2rem;
+   margin-bottom: 1rem;
+   background-color: var(--all-color);
+   color: var(--white);
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   small {
+      opacity: 80%;
+   }
+}
